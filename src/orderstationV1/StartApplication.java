@@ -1,3 +1,11 @@
+//Note: Pre-equisites for this test to run
+//Cutomer app must be signed-in already by an existing user
+//Delivery Location, "Riyadh-Yasmin" must be a saved location in the customer app (Home)
+//Tester must have orderstation and hungerstation installed in the device
+//Tester must change the screenshots path directory accordingly 
+//Tester must change the absolute path to .apk accordlingly 
+//Tester must set device capabilities accordingly 
+
 package orderstationV1;
  
 import io.appium.java_client.MobileElement;
